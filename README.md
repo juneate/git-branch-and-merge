@@ -14,6 +14,11 @@ Here is a list of my primary skills:
 * Having schools named after me
 * Being not alive
 
+#### Contacts & Social Media
+
+* [:computer: My Homepage](https://www.georgebrown.ca/)
+* [Instagram](https://www.instagram.com/gbcollege/)
+
 
 ## Markdown
 
